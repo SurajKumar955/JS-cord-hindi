@@ -11,8 +11,8 @@ const gameName = new String('Suraj-Ku-com')
 // console.log(gameName[0]);
 // console.log(gameName.___proto___);
 
-console.log(gameName.length);
-console.log(gameName.toUpperCase());
+// console.log(gameName.length);
+// console.log(gameName.toUpperCase());
 
 console.log(gameName.charAt(3));
 console.log(gameName.indexOf('r'));
